@@ -1,0 +1,10 @@
+/Cargo.lock
+/my_csv_file.csv
+/myenv
+/target
+
+.env
+
+*.csv
+
+src/nain2.rs

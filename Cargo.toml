@@ -1,0 +1,10 @@
+[package]
+name = "pyo3"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+pyo3 = "0.18.2"
+pyo3-pack = "0.7.0"
+
