@@ -7,4 +7,6 @@
 
 *.csv
 
-src/nain2.rs
+src/main2.rs
+
+src/.DS_Store
